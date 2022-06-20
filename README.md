@@ -26,3 +26,4 @@
 
 ### Footer
 - Changed div tag with "footer" class to footer tag.
+- Changed h2 tag to h4 tag.
