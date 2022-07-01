@@ -34,5 +34,5 @@ https://kbjss071.github.io/HoriseonMarketingAgency/
 
 ## ---New changes---
 - Link to the deployed application and an image of the website has been added.
-- In the previos version, the footer element had <h2> element which is now converted to <h4> tag.
-- Fix the navbar to point to the correct Ids or classes in the HTML.
+- In the previos version, the footer element had `<h2>` element which is now converted to `<h4>` tag.
+- Fix the navbar to point to the correct Ids or classes in the HTML
