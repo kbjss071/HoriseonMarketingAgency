@@ -1,5 +1,9 @@
 # Code Refactor Starter Code
 
+## Link to the deployed application
+https://kbjss071.github.io/HoriseonMarketingAgency/
+![alt text](./assets/images/Capture.PNG)
+
 ## To-Do Lists
 
 ### Refactor the original website by:
@@ -9,7 +13,7 @@
 - Using heading elements in sequential order
 - Applying a concise, descriptive title
 
-## Revisions
+## Works done in this project
 
 ### Head
 - Changed the website title.
@@ -27,3 +31,8 @@
 ### Footer
 - Changed div tag with "footer" class to footer tag.
 - Changed h2 tag to h4 tag.
+
+## ---New changes---
+- Link to the deployed application and an image of the website has been added.
+- In the previos version, the footer element had <h2> element which is now converted to <h4> tag.
+- Fix the navbar to point to the correct Ids or classes in the HTML.
